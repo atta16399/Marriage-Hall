@@ -1,0 +1,14 @@
+# app-ads.txt placeholder for Marriage Hall
+#
+# This file is intentionally empty of ad-network entries.
+# Replace this file's contents with the exact app-ads.txt text
+# supplied by your advertising provider (e.g. AppLovin MAX and any
+# other networks you use), one entry per line, in the format:
+#
+# <ad network domain>, <publisher ID>, <relationship>, <certification authority ID>
+#
+# Example (do not use — replace with your real values):
+# applovin.com, pub-XXXXXXXXXXXXXXXX, DIRECT, ...
+#
+# This file must remain publicly accessible at:
+# https://YOUR-DOMAIN.com/app-ads.txt
